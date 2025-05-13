@@ -19,7 +19,7 @@ A modern, sleek React-based client for testing and experimenting with OpenAI Age
 
 - **React** with **TypeScript** for type-safe development
 - **Vite** as the lightning-fast build tool
-- **Tailwind CSS 4.1** for modern, responsive styling
+- **Tailwind CSS 3.X** for modern, responsive styling
 - **TanStack React Query** for efficient data fetching and state management
 - **React Router** for seamless navigation
 
